@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("version-increment-cli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+794ea8f0dee420b24a96c8fa8715f755aa4bb402")]
 [assembly: System.Reflection.AssemblyProductAttribute("version-increment-cli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("version-increment-cli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

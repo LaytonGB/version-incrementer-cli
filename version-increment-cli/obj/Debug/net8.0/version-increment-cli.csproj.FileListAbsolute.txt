@@ -18,3 +18,4 @@ C:\Users\layto\Documents\Coding\cs\version-increment-cli\version-increment-cli\o
 C:\Users\layto\Documents\Coding\cs\version-increment-cli\version-increment-cli\obj\Debug\net8.0\version-increment-cli.pdb
 C:\Users\layto\Documents\Coding\cs\version-increment-cli\version-increment-cli\obj\Debug\net8.0\version-increment-cli.genruntimeconfig.cache
 C:\Users\layto\Documents\Coding\cs\version-increment-cli\version-increment-cli\obj\Debug\net8.0\ref\version-increment-cli.dll
+C:\Users\layto\Documents\Coding\cs\version-increment-cli\version-increment-cli\obj\Debug\net8.0\version-increment-cli.sourcelink.json
