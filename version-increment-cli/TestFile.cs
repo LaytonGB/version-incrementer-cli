@@ -8,6 +8,6 @@ namespace version_increment_cli
 {
     internal class TestFile
     {
-        string version = "1.0.71.2";
+        string version = "1.0.71.3";
     }
 }

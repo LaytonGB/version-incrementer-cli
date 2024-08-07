@@ -1,8 +1,7 @@
 {
   "profiles": {
     "version-increment-cli": {
-      "commandName": "Project",
-      "commandLineArgs": "--release-type BugFix --target \"C:\\Users\\layto\\Documents\\Coding\\cs\\version-increment-cli\\version-increment-cli\\TestFile.cs\""
+      "commandName": "Project"
     }
   }
 }
